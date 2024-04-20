@@ -3,12 +3,12 @@ Overview
 This project implements a proximity detection system using Embedded C and LPC1768 microcontroller. The system utilizes an ultrasonic sensor to detect the distance of nearby obstacles. When an obstacle is detected within a range of less than 10 cm, the system activates a buzzer and illuminates LEDs to indicate the presence of the obstacle.
 
 # Components
-LPC1768 microcontroller board
-Ultrasonic sensor (HC-SR04)
-Buzzer
-LEDs
-Resistors
-Breadboard
+LPC1768 microcontroller board,
+Ultrasonic sensor (HC-SR04),
+Buzzer,
+LEDs,
+Resistors,
+Breadboard,
 Connecting wires
 
 # Setup
